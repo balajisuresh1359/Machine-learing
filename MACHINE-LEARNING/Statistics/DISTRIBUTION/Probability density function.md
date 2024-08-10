@@ -1,0 +1,3 @@
+[# What is a Probability Density Function](https://www.youtube.com/watch?v=jUFbY5u-DMs&ab_channel=IainExplainsSignals%2CSystems%2CandDigitalComms)
+
+A probability density function (PDF) is a function that describes the likelihood of a continuous random variable taking on a specific value within a given range. In other words, it gives the probability that the variable falls within a particular interval.

@@ -1,0 +1,1 @@
+Each member of the population having same probability of selection.
