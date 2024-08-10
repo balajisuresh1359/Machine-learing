@@ -1,1 +1,1 @@
-![[IMG - Confusion matrix.png]]
+![](IMG%20-%20Confusion%20matrix.png)

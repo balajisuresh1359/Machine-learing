@@ -50,6 +50,5 @@ plt.show()
 # Results
 print(f"AUC: {roc_auc:.2f}")
 
+![](IMG%20-%20AUC-ROC.png)
 
-
-![[IMG - AUC-ROC.png]]
